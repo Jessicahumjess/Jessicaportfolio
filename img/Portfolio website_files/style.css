@@ -324,9 +324,7 @@ footer p:nth-child(2){
     line-height: 26px;
 
 }
-.social{
-    display: flex;
-}
+
 .social a{
     width: 45px;
     height: 45px;
@@ -335,19 +333,4 @@ footer p:nth-child(2){
     background: #f9004d;
     border-radius:  50%;
     margin: 22px 10px;
-    color: white; 
-    text-decoration: none;
-    font-size: 20px;
-}
-
-.social a:hover{
-    transform: scale(1.3);
-    transition: .3s;
-}
-
-.end{
-    position: absolute;
-    color: #f9004d;
-    bottom: 35px;
-    font-size: 14px;
 }
